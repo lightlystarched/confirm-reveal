@@ -1,0 +1,26 @@
+{
+  "name": "confirm-reveal",
+  "title": "Confirm Reveal of Assets",
+  "description": "Show a confirmation option when the gamemaster clicks on 'Show Players'",
+  "authors":
+  [
+    {
+      "name": "Joshua Drama"
+    }
+  ],
+  "scripts": [
+    "scripts/confirm-reveal.js"
+  ],
+  "styles": [
+    "styles/confirm-reveal.css"
+  ],
+  "version": "0.0.1",
+  "minimumCoreVersion": "9",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ]
+}
