@@ -9,7 +9,7 @@
     }
   ],
   "scripts": [
-    "scripts/confirm-reveal.js"
+  "scripts/confirm-reveal.js"
   ],
   "styles": [
     "styles/confirm-reveal.css"
